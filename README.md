@@ -35,3 +35,4 @@ react --^       ^
 react-native ---^
 
 
+Morph is going to have a very strict built in linter. This is because morph code is design to be edited by external editors and be read by different dev tools.
